@@ -4,6 +4,8 @@ A simple dApp frontend built to work with Celo Protocol to process payment
 # Live app
 You can see the live dApp [here](https://kharioki.github.io/Celo_Marketplace_DApp/)
 
+![Screenshot 2021-10-05 at 05 35 42](https://user-images.githubusercontent.com/22290070/135951616-112b63da-167b-4bbd-a300-75efb5567251.png)
+
 # Install
 
 ```
