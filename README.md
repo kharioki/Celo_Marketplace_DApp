@@ -1,3 +1,9 @@
+# Celo_Marketplace_DApp
+A simple dApp frontend built to work with Celo Protocol to process payment 
+
+# Live app
+You can see the live dApp [here](https://kharioki.github.io/Celo_Marketplace_DApp/)
+
 # Install
 
 ```
@@ -33,4 +39,4 @@ npm run build
 1. Install the [CeloExtensionWallet](https://chrome.google.com/webstore/detail/celoextensionwallet/kkilomkmpmkbdnfelcpgckmpcaemjcdh?hl=en) from the google chrome store.
 2. Create a wallet.
 3. Go to [https://celo.org/developers/faucet](https://celo.org/developers/faucet) and get tokens for the alfajores testnet.
-4. Switch to the alfajores testnet in the CeloExtensionWallet.# Celo_Marketplace_DApp
+4. Switch to the alfajores testnet in the CeloExtensionWallet.
